@@ -1,0 +1,12 @@
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\bin\Debug\net7.0\ITMS.Business.deps.json
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\bin\Debug\net7.0\ITMS.Business.dll
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\bin\Debug\net7.0\ITMS.Business.pdb
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\ITMS.Business.csproj.AssemblyReference.cache
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\ITMS.Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\ITMS.Business.AssemblyInfoInputs.cache
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\ITMS.Business.AssemblyInfo.cs
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\ITMS.Business.csproj.CoreCompileInputs.cache
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\ITMS.Business.dll
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\refint\ITMS.Business.dll
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\ITMS.Business.pdb
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Business\obj\Debug\net7.0\ref\ITMS.Business.dll

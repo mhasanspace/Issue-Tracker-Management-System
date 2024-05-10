@@ -4,6 +4,360 @@
     "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Web\\ITMS.Web.csproj": {}
   },
   "projects": {
+    "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Business\\ITMS.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Business\\ITMS.Business.csproj",
+        "projectName": "ITMS.Business",
+        "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Business\\ITMS.Business.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Visula Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Common\\ITMS.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Common\\ITMS.Common.csproj",
+        "projectName": "ITMS.Common",
+        "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Common\\ITMS.Common.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Visula Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Domain\\ITMS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Domain\\ITMS.Domain.csproj",
+        "projectName": "ITMS.Domain",
+        "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Domain\\ITMS.Domain.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Visula Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Common\\ITMS.Common.csproj": {
+                "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Common\\ITMS.Common.csproj"
+              },
+              "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Utility\\ITMS.Utility.csproj": {
+                "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Utility\\ITMS.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Persistence\\ITMS.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Persistence\\ITMS.Persistence.csproj",
+        "projectName": "ITMS.Persistence",
+        "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Persistence\\ITMS.Persistence.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Visula Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Domain\\ITMS.Domain.csproj": {
+                "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Domain\\ITMS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Utility\\ITMS.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Utility\\ITMS.Utility.csproj",
+        "projectName": "ITMS.Utility",
+        "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Utility\\ITMS.Utility.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Visula Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Web\\ITMS.Web.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,7 +386,23 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Business\\ITMS.Business.csproj": {
+                "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Business\\ITMS.Business.csproj"
+              },
+              "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Common\\ITMS.Common.csproj": {
+                "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Common\\ITMS.Common.csproj"
+              },
+              "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Domain\\ITMS.Domain.csproj": {
+                "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Domain\\ITMS.Domain.csproj"
+              },
+              "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Persistence\\ITMS.Persistence.csproj": {
+                "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Persistence\\ITMS.Persistence.csproj"
+              },
+              "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Utility\\ITMS.Utility.csproj": {
+                "projectPath": "F:\\ASP.NET PROJECTS\\Issue-Tracker-Management-System\\ITMSApp\\ITMS.Utility\\ITMS.Utility.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -44,6 +414,30 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

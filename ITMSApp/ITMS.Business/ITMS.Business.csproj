@@ -1,9 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+
+
+	<!--<ItemGroup>
+		<ProjectReference Include="..\ITMS.Domain\ITMS.Domain.csproj" />
+		<ProjectReference Include="..\ITMS.Persistence\ITMS.Persistence.csproj" />
+		<ProjectReference Include="..\ITMS.Common\ITMS.Common.csproj" />
+		<ProjectReference Include="..\ITMS.Utility\ITMS.Utility.csproj" />
+	</ItemGroup>-->
 
 </Project>

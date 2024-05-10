@@ -1,0 +1,12 @@
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\bin\Debug\net7.0\ITMS.Common.deps.json
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\bin\Debug\net7.0\ITMS.Common.dll
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\bin\Debug\net7.0\ITMS.Common.pdb
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\ITMS.Common.csproj.AssemblyReference.cache
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\ITMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\ITMS.Common.AssemblyInfoInputs.cache
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\ITMS.Common.AssemblyInfo.cs
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\ITMS.Common.csproj.CoreCompileInputs.cache
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\ITMS.Common.dll
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\refint\ITMS.Common.dll
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\ITMS.Common.pdb
+F:\ASP.NET PROJECTS\Issue-Tracker-Management-System\ITMSApp\ITMS.Common\obj\Debug\net7.0\ref\ITMS.Common.dll
